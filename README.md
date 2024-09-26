@@ -90,7 +90,7 @@ endmodule
 
 
 **RTL realization**
-![de exp draw](https://github.com/user-attachments/assets/b6c96c12-bb60-4a57-8467-204ab76fb216)
+![image](https://github.com/user-attachments/assets/2c1d2e12-e3cb-4f56-8cb5-54cc2afd7c71)
 
 **Output:** 
 ![de waveform final exp 1](https://github.com/user-attachments/assets/6ba6322a-e019-437b-a9d2-2455e373a89e)
